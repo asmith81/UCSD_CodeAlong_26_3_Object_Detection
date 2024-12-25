@@ -1,0 +1,6 @@
+youtube: "https://www.youtube.com/watch?v=4eIBisqx9_g"
+
+data: "https://github.com/llSourcell/YOLO_Object_Detection/tree/master"
+
+code: "https://github.com/llSourcell/YOLO_Object_Detection/tree/master"
+
